@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python
+env/
+venv/
+pip-wheel-metadata/
+.tox/
+.coverage
+.pytest_cache/
+build/
+develop-eggs/
+dist/
+eggs/
+.egg-info/
+*.egg
+
+# Django
+*.sqlite3
+/media/
+/static/
+.env
+.flaskenv
+.vscode/
